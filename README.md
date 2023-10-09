@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaggelas1337
 - 👀 I’m interested  of Computer science and Telecommunication
-- 🌱 I’m currently learning  I’m currently learning
+- 🌱 I’m currently learning New Pogramming Languages
 
 
 <!---
